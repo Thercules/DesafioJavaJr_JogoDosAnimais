@@ -41,7 +41,7 @@ public class Main extends javax.swing.JFrame {
         jButton1 = new javax.swing.JButton();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
-        setTitle("Jogo dos Animais");
+        setTitle("Qual o animal?");
 
         jLabel1.setFont(new java.awt.Font("Lucida Grande", 2, 24)); // NOI18N
         jLabel1.setText("<html><b><em>Qual o animal?</em></b><html>");
